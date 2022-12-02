@@ -1,0 +1,6 @@
+urwid
+dill
+pylint
+pytest==3.0.6
+pytest-cov
+coveralls
